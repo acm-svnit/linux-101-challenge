@@ -1,0 +1,6 @@
+blueberries  15
+apples       7
+ananas       6
+oranges      5
+bananas      4
+
