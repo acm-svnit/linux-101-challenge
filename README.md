@@ -106,3 +106,10 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 		
 
 **Bonus Questions:** Solve `q-07` and `q-09` from the cli section using just vim (5 + 5)
+
+## RESOURCES
+
+* Type vimtutor on your terminal and complete the basic vim tutorial.
+* [Missing semester vim tutorial](https://missing.csail.mit.edu/2020/editors/)
+* [Vim golf](http://www.vimgolf.com/)
+* [Vim adventures](https://vim-adventures.com/)(it is free upto level 3).
