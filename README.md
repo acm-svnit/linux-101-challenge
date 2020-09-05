@@ -2,6 +2,7 @@
 # Linux-101-Challenge
 
 
+
 ## VIM
 
 1. Given the name and number of fruits available. Your task is to sort the file so that the fruit having maximum number is first. You just need to write the command as your answer. 
@@ -67,3 +68,9 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 		|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
 		
 
+## RESOURCES
+
+* Type vimtutor on your terminal and complete the basic vim tutorial.
+* [Missing semester vim tutorial](https://missing.csail.mit.edu/2020/editors/)
+* [Vim golf](http://www.vimgolf.com/)
+* [Vim adventures](https://vim-adventures.com/)(it is free upto level 3).
