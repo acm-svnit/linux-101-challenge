@@ -23,6 +23,8 @@
 
 9. **UPDATE**: Still stuck? don't worry you can submit till today midnight (7th September 2020, 11:59pm), but with -5 points penalty.
 
+10. **UPDATE2**: You can submit any number of times, the latest submission will be considered.
+
 ## CLI: 60 Points
 For all the questions, assume that your are starting from the question directory `q-xx`.
 
@@ -117,4 +119,5 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 * [Vim golf](http://www.vimgolf.com/)
 * [Vim adventures](https://vim-adventures.com/)(it is free upto level 3).
 * [Shell Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
+
 
