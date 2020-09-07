@@ -2,6 +2,7 @@
 # Linux-101-Challenge
 
 ## Guidelines
+
 1. You need to submit the solutions in a pdf file. For each solution mention the the command used and screenshots of the execution.
 
 2. Submit us the pdfs on whatsapp (either number): +91 6355344038, +91 6354481596
@@ -19,6 +20,8 @@
 7. For the vim section, the answers will be evaluated on the basis of number of keystrokes used.
 
 8. Number in brackets after each problem statement specify the maximum points for solving that problem.
+
+9. **UPDATE**: Still stuck? don't worry you can submit till today midnight (7th September 2020, 11:59pm), but with -5 points penalty.
 
 ## CLI: 60 Points
 For all the questions, assume that your are starting from the question directory `q-xx`.
@@ -113,3 +116,4 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 * [Missing semester vim tutorial](https://missing.csail.mit.edu/2020/editors/)
 * [Vim golf](http://www.vimgolf.com/)
 * [Vim adventures](https://vim-adventures.com/)(it is free upto level 3).
+
