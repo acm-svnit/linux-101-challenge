@@ -116,4 +116,5 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 * [Missing semester vim tutorial](https://missing.csail.mit.edu/2020/editors/)
 * [Vim golf](http://www.vimgolf.com/)
 * [Vim adventures](https://vim-adventures.com/)(it is free upto level 3).
+* [Shell Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
 
