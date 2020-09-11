@@ -121,3 +121,8 @@ Output.txt:( go to [vim/figletOutput.txt](https://github.com/acm-svnit/linux-101
 * [Shell Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
 
 
+## WINNERS
+
+1. U19EC002 Harshit Chauhan
+2. U19CS012 Bhagya Rana
+3. Ui19co01 Abhay
